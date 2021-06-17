@@ -10,6 +10,10 @@ Husband, student of Master's Degree of Computer Science and Software Developer, 
 
 - [`SergioHdzReyes/emacs_configuration`](https://github.com/SergioHdzReyes/emacs_configuration):
   My Emacs keyboard and environment configurations.
+- [`SergioHdzReyes/mcc_homework`](https://github.com/SergioHdzReyes/mcc_homework):
+  A repository for save and share, projects and homeworks of the Master's Degree on Computer Science.
+- [`SergioHdzReyes/sync_select_files`](https://github.com/SergioHdzReyes/sync_select_files):
+  This project allow to synchronize files under a git repository with changes to server(s).
 
 Show :heart: and :star: the repository that you like!
 
