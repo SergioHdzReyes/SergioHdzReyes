@@ -4,7 +4,7 @@
 [![Twitter @Sergio90290](https://img.shields.io/twitter/follow/Sergio90290?label=%40Sergio90290&logo=twitter&style=flat-square)](https://twitter.com/Sergio90290)
 [![Email](https://img.shields.io/badge/sergio.hdzreyes%40gmail.com-mail-blueviolet?style=flat-square)](mailto://eclipxe13@gmail.com)
 
-Husband, student of Master's Degree of Computer Science and Software Developer, focused in low level programming looking for the embedded systems area.
+Husband, father and student of Master's Degree in Computer Science. Software Developer focused in low level programming, looking for the embedded systems area.
 
 ## Personal and community Projects
 
@@ -13,7 +13,7 @@ Husband, student of Master's Degree of Computer Science and Software Developer, 
 - [`SergioHdzReyes/mcc_homework`](https://github.com/SergioHdzReyes/mcc_homework):
   A repository for save and share, projects and homeworks of the Master's Degree on Computer Science.
 - [`SergioHdzReyes/sync_select_files`](https://github.com/SergioHdzReyes/sync_select_files):
-  This project allow to synchronize files under a git repository with changes to server(s).
+  This project allows to synchronize files under a git repository with changes to server(s).
 
 Show :heart: and :star: the repository that you like!
 
